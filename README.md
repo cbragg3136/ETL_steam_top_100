@@ -1,4 +1,4 @@
-# ETL_steam_top_100# ETL_steam_top_100
+# ETL_steam_top_100
 
 Members: Christi Bragg, Lowell Vaughen and Joseph Pegram
 
